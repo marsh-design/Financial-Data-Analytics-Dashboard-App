@@ -72,12 +72,3 @@ Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-License
-
-This project is licensed under the MIT License.
-
-Acknowledgements
-
-This project was inspired by the tutorial “Build A MERN Finance Dashboard App | Machine Learning, Typescript, React, Node, MUI, Deployment” by EdRoh.
-
-For a detailed walkthrough, you can watch the tutorial below:
